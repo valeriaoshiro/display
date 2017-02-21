@@ -22,6 +22,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/_reset.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_reset.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/css\/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -34,6 +47,85 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-demo.html",
+		"oF": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.eot",
+		"oF": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.ttf",
+		"oF": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.woff",
+		"oF": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/Novecentosanswide-DemiBold-webfont.woff2",
+		"oF": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/specimen_files\/easytabs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/specimen_files\/easytabs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/specimen_files\/grid_12-825-55-15.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/specimen_files\/grid_12-825-55-15-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/specimen_files\/specimen_stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/specimen_files\/specimen_stylesheet-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/novecentosanswide_demibold_macroman\/stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/novecentosanswide_demibold_macroman\/stylesheet-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/css\/style.css": {
 		"aP": 1,
