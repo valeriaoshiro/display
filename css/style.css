@@ -52,7 +52,9 @@ table {
   max-width: 960px;
   margin: auto;
   padding-left: 10px;
-  padding-right: 10px; }
+  padding-right: 10px;
+  border: 1px solid blue;
+  position: relative; }
 
 ul {
   list-style: none; }
@@ -96,3 +98,34 @@ ul {
     margin-right: 30px; }
   .nav ul a:hover {
     color: #2ecc71; }
+
+/* ----- LANDING ----- */
+.landing {
+  height: 525px;
+  background-image: url("../images/sunburst-bg.png"), url("../images/green-bg.png");
+  background-repead: no-repeat, no-repeat;
+  background-size: cover; }
+  .landing .callout {
+    position: absolute;
+    top: 120px; }
+    .landing .callout img {
+      display: block;
+      margin: 0 auto 45px auto; }
+    .landing .callout h3 {
+      font-family: 'novecento_sans_widedemibold';
+      text-transform: uppercase;
+      color: #737373;
+      text-size: 16px;
+      text-align: center;
+      margin-bottom: 30px; }
+    .landing .callout button {
+      display: block;
+      margin: 0 auto 50px auto;
+      background: #2ecc71;
+      border: none;
+      text-decoration: none;
+      color: #fff;
+      font-family: 'novecento_sans_widedemibold';
+      text-transform: uppercase;
+      font-size: 14px;
+      padding: 17px 20px; }

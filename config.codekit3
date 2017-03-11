@@ -636,11 +636,35 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/images\/devices.png": {
+		"ft": 32768,
+		"iS": 13792,
+		"oA": 0,
+		"oAP": "\/images\/devices.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/display-logo.png": {
 		"ft": 32768,
 		"iS": 2167,
 		"oA": 0,
 		"oAP": "\/images\/display-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/green-bg.png": {
+		"ft": 32768,
+		"iS": 4293,
+		"oA": 0,
+		"oAP": "\/images\/green-bg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/sunburst-bg.png": {
+		"ft": 32768,
+		"iS": 60262,
+		"oA": 0,
+		"oAP": "\/images\/sunburst-bg.png",
 		"oF": 0,
 		"opt": 0
 		},
